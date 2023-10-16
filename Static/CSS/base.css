@@ -1,0 +1,33 @@
+.cus-nav-bg {
+    background-color: #F8EDEB;
+}
+
+.cus-nav-name {
+    font-family: 'Lobster', sans-serif;
+    color: #FFAFCC;
+}
+
+.cus-button {
+    border: 1px solid #FFAFCC;
+    text-decoration: none;
+    background-color: #FFAFCC;
+    color: white;
+}
+
+.cus-button:hover {
+    color: white;
+}
+
+.cus-bgcolor-primary {
+    background-color: #FFAFCC;
+    border-color: #FFAFCC;
+}
+
+.cus-bgcolor-primary:hover {
+    background-color: #FFAFCC;
+    border-color: #FFAFCC;
+}
+
+.card {
+    border: none;
+}
