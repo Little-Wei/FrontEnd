@@ -31,3 +31,17 @@
 .card {
     border: none;
 }
+
+.cus-ftcolor-primary {
+    color: #FFAFCC;
+}
+
+.rectangle {
+    background-color: #ff69b4;
+    height: 100%; /* 保持高度為100% */
+}
+
+.out-rectangle {
+    width: 10px; /* 自訂寬度 */
+    height: 30px; /* 自訂高度 */
+}
