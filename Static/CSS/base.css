@@ -21,6 +21,7 @@
 .cus-bgcolor-primary {
     background-color: #FFAFCC;
     border-color: #FFAFCC;
+    color: white;
 }
 
 .cus-bgcolor-primary:hover {
@@ -37,11 +38,8 @@
 }
 
 .rectangle {
+    display: inline-block;
     background-color: #ff69b4;
-    height: 100%; /* 保持高度為100% */
-}
-
-.out-rectangle {
-    width: 10px; /* 自訂寬度 */
-    height: 30px; /* 自訂高度 */
+    width: 10px;
+    height: 30px;
 }
